@@ -1,4 +1,4 @@
-public enum Operator {
+enum Operator {
     DIVISION("/"),
     MULTIPLICATION("*"),
     SUM("+"),
